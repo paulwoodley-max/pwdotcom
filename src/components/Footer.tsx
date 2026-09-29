@@ -51,7 +51,7 @@ export function Footer() {
             <img
               src={LOGO_URL}
               alt="Paul Woodley Logo"
-              className="h-16 w-auto max-w[200px] object-contain mb-4"
+              className="h-16 w-auto max-w[200px] object-contain mb-4">
               onError={imgFallback}
             />
             <div className="text-2xl font-bold text-white tracking-tight uppercase mb-1">
@@ -118,7 +118,7 @@ export function Footer() {
               &copy; 2026 PW Coaching LLC. All rights reserved.
             </p>
             <p className="text-xs mt-1 text-white/40">
-              113 S. Perry Street, Suite 206 #14985, Lapÿcenceville, GA 30046
+              113 S. Perry Street, Suite 206 #14985, Lawrenceville, GA 30046
             </p>
             <p className="text-xs mt-1 text-white/40 flex flex-col sm:flex-row items-center justify-center md:justify-end gap-2 sm:gap-4">
               <span>
