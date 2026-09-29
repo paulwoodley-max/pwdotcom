@@ -130,7 +130,7 @@ export default function About() {
             <br />
             <span className="text-accent">Were Naked?</span>
           </h1>
-          <p className="text-lg md:text-2xl text8-white/85 font-light leading-relaxed max-w-2xl text-shadow-hero">
+          <p className="text-lg md:text-2xl text-white/85 font-light leading-relaxed max-w-2xl text-shadow-hero">
             My name is Paul Woodley, and my story is not simply the story of a
             hotelier, entrepreneur, author, investor, or coach. It is the story
             of a man learning that identity is found in truth.
@@ -144,7 +144,7 @@ export default function About() {
           <div className="flex flex-wrap justify-center gap-6 md:gap-10 text-center max-w-5xl mx-auto">
             {[
               {
-                icon: <Shield className="w5 h-5 shrink-0" />,
+                icon: <Shield className="w-5 h-5 shrink-0" />,
                 label: "Christian Leadership Coach",
               },
               {
