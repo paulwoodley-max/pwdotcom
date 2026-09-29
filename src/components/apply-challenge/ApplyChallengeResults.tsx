@@ -19,7 +19,7 @@ export function QualifiedResult() {
               You're Approved to Book.
             </h1>
             <div className="w-16 h-1 bg-accent mx-auto mb-8"></div>
-            <p className="text-xl text-foreground/80 leading-relaxed max-w-xl mx-auto">
+            <p className="text-xl text-foreground/80 leading-relaxed max-w-3xl mx-auto">
               You look like a strong fit for the Do Not Be Anxious 5-Day
               Challenge. Your next step is to schedule your first call. Please
               choose the earliest time that works for you so Paul can help you
