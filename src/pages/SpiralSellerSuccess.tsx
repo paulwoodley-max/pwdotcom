@@ -138,7 +138,7 @@ export default function SpiralSellerSuccess() {
       <section className="py-20 bg-white border-b border-border/50">
         <div className="container mx-auto px-4 max-w-4xl text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-primary mb-4 tracking-tight">
-     0      The Full Book
+            The Full Book
           </h2>
           <p className="text-lg text-foreground/70 leading-relaxed mb-8 max-w-2xl mx-auto font-light">
             The Spiral Seller is the companion to The Spiral Sales Office — the
