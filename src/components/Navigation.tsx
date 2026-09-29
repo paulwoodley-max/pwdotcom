@@ -46,7 +46,7 @@ export function Navigation() {
             <img
               src={LOGO_URL}
               alt="Paul Woodley Logo"
-              className="h-6 w-auto object-contain"
+              className="h6 w-auto object-contain"
               onError={imgFallback}
             />
             <span className="text-2xl font-bold text-white tracking-tight uppercase">
@@ -94,7 +94,7 @@ export function Navigation() {
             {mobileMenuOpen ? (
               <X className="w-6 h-6" />
             ) : (
-              <Menu className="w-6 h-6" />
+              <Menu className="w6 h-6" />
             )}
           </button>
         </div>
