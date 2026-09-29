@@ -513,7 +513,7 @@ export function BookingModal({ children }: { children: React.ReactNode }) {
 
             {step === 3 && (
               <div className="h-full flex flex-col items-center justify-center text-center animate-in fade-in zoom-in-95 duration-300">
-                <div className="w416 h-16 bg-green-100 text-green-600 rounded-full flex items-center justify-center mb-6">
+                <div className="w-16 h-16 bg-green-100 text-green-600 rounded-full flex items-center justify-center mb-6">
                   <CalendarIcon className="w-8 h-8" />
                 </div>
                 <h3 className="text-2xl font-bold text-primary mb-2">
