@@ -483,7 +483,7 @@ export default function SpiralSellerPage() {
                 {errors.dataConsent && (
                   <p className="text-destructive text-sm -mt-2">
                     {errors.dataConsent}
-                     </p>
+                  </p>
                 )}
 
                 <div className="flex items-start gap-3">
