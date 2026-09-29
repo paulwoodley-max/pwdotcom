@@ -51,7 +51,7 @@ export function Footer() {
             <img
               src={LOGO_URL}
               alt="Paul Woodley Logo"
-              className="h-16 w-auto max-w[200px] object-contain mb-4">
+              className="h-16 w-auto max-w-[200px] object-contain mb-4"
               onError={imgFallback}
             />
             <div className="text-2xl font-bold text-white tracking-tight uppercase mb-1">
